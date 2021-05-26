@@ -44,6 +44,7 @@
 
 /*====  GOOGLE-FONT & DEFAULT CSS  ====*/
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700;800&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
 body {
  	color: #212529;
  	font-size: 16px;
